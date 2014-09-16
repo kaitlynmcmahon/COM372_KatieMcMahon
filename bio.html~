@@ -3,28 +3,15 @@
 <head>
 <title>Katie McMahon</title>
 <meta charset="utf-8" />
-<style>
-#MainTitle {
-	background-color: lightblue;
-	color: white;
-}
-.TopLevel {
-	color: darkblue;
-	border-bottom: 1px solid;
-}
-#MainContent {
-	margin: 0 20%;
-}
-</style>
+
 </head>
 
 <body>
-<hgroup id="MainTitle">
+<hgroup>
 	<h1>About Katie McMahon</h1>
 	<h2>My Education and Skills</h2>
 </hgroup>
-<div id="MainContent">
-<section id="BasicInformation" class="TopLevel">
+<section id="BasicInformation">
 	<h3>Basic Information</h3>
 	<section id="ContactInformation">
 	<h4>Contact Information</h4>
@@ -34,8 +21,7 @@
 			<li>linkedin.com/kaitlynmcmahon</li>
 		</ul>
 	</section>
-</section>
-	<section id="Background" class="TopLevel">
+	<section id="Background">
 		<h4>Background</h4>
 		<p>Lorem ipsum dolor sit amet, <em>consectetuer adipiscing elit</em>. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
 	
@@ -43,7 +29,7 @@
 	</section>
 </section>
 
-<section id="Education" class="TopLevel">
+<section id="Education">
 	<h3>Education</h3>
 	<section id="CommunicationsEthics">
 		<h4>Communications Ethics</h4>
@@ -54,8 +40,6 @@
 		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
 	</section>
 </section>
-
-</div>	
-
+	
 </body>
 </html>
